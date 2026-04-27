@@ -1,0 +1,6 @@
+{
+  "name": "MediHub Android Setup",
+  "description": "Android Studio project generation for a Medicine Delivery App with Kotlin, Firebase, Cloudinary, and Geoapify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

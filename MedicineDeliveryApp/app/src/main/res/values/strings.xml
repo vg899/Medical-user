@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediHub</string>
+    <string name="search_medicines">Search medicines...</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="cod_only">Cash on Delivery (COD) Only</string>
+    <string name="upload_prescription">Upload Prescription (Cloudinary)</string>
+    <string name="place_order">Place Order</string>
+    <string name="track_order">Track Order</string>
+</resources>
