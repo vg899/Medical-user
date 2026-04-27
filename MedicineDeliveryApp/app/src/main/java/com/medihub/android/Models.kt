@@ -25,3 +25,10 @@ data class Order(
     val address: String = "",
     val createdAt: Long = System.currentTimeMillis()
 )
+
+data class Address(
+    val id: String = "",
+    val title: String = "",
+    val details: String = "",
+    val isSelected: Boolean = false
+)

@@ -35,6 +35,8 @@
         <activity android:name=".HomeActivity" />
         <activity android:name=".CartCheckoutActivity" />
         <activity android:name=".TrackingActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".SavedAddressesActivity" android:theme="@style/Theme.MediHub.NoActionBar" />
         
     </application>
 
